@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gameJam2012", "gameJam2012\gameJam2012\gameJam2012.csproj", "{5319CBAE-47DF-4AF7-8A00-DF9624CEBAD3}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "gameJam2012Content", "gameJam2012\gameJam2012Content\gameJam2012Content.contentproj", "{26B59D6B-6A9F-46FA-B0B0-48521EDA58DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5319CBAE-47DF-4AF7-8A00-DF9624CEBAD3}.Debug|x86.ActiveCfg = Debug|x86
+		{5319CBAE-47DF-4AF7-8A00-DF9624CEBAD3}.Debug|x86.Build.0 = Debug|x86
+		{5319CBAE-47DF-4AF7-8A00-DF9624CEBAD3}.Release|x86.ActiveCfg = Release|x86
+		{5319CBAE-47DF-4AF7-8A00-DF9624CEBAD3}.Release|x86.Build.0 = Release|x86
+		{26B59D6B-6A9F-46FA-B0B0-48521EDA58DE}.Debug|x86.ActiveCfg = Debug|x86
+		{26B59D6B-6A9F-46FA-B0B0-48521EDA58DE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
